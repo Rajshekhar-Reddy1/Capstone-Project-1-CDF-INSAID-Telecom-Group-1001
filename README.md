@@ -1,5 +1,4 @@
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.xingular.in%2Fimages%2Fpostimage.jpg&imgrefurl=https%3A%2F%2Fwww.xingular.in%2Fabout.html&tbnid=86sBZxqlxA4tZM&vet=12ahUKEwjNwu21x832AhXyktgFHVbwCDAQMygAegUIARCIAQ..i&docid=cVWqSTGlI63IFM&w=628&h=250&itg=1&q=Telecom%20project&hl=en&ved=2ahUKEwjNwu21x832AhXyktgFHVbwCDAQMygAegUIARCIAQ
-
+![image](https://user-images.githubusercontent.com/87597168/158847317-494a8709-6acb-4cf7-9254-705cc38293d1.png)
 # Capstone-Project-1-CDF-INSAID-Telecom-Group-1001
 Capstone Project 1 (CDF) INSAID Telecom Group 1001
 Loading...
