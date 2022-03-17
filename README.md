@@ -1654,3 +1654,7 @@ completed at 10:16 PM
 
 Ref jupiter Note book !
 https://colab.research.google.com/drive/1SCn1R0X-gUZdfLRm4BvoueW8Fl7PXDsi#scrollTo=078a1feb
+
+Conusulting Report
+
+https://docs.google.com/presentation/d/1NWzSPGN1KvZquPMTymr2bUDMpetb5D-o/edit#slide=id.p13
