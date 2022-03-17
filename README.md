@@ -1,7 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/87597168/158847580-bc27a096-0107-4b91-8636-a678e9c64aa5.png)
 
-https://colab.research.google.com/drive/1SCn1R0X-gUZdfLRm4BvoueW8Fl7PXDsi#scrollTo=078a1feb
 
 Table of Contents
 
@@ -26,8 +25,9 @@ Table of Contents
 10.Thanks
 
 
+![image](https://user-images.githubusercontent.com/87597168/158852738-538589ef-cf61-4a0b-8b09-ae123ef145d3.png)
 
-https://raw.githubusercontent.com/pratikbarjatya/Telecom-Capstone-Project/master/images/capstone_analysis.png
+
 
 Capstone Project 1 (CDF) INSAID Telecom Group 1001.ipynb
 Capstone Project 1 (CDF) INSAID Telecom Group 1001.ipynbC_
@@ -1650,3 +1650,4 @@ error
 0s
 completed at 10:16 PM
 
+https://colab.research.google.com/drive/1SCn1R0X-gUZdfLRm4BvoueW8Fl7PXDsi#scrollTo=078a1feb
