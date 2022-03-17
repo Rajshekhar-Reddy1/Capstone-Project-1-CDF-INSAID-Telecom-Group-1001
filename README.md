@@ -1650,4 +1650,5 @@ error
 0s
 completed at 10:16 PM
 
+Ref jupiter Note book !
 https://colab.research.google.com/drive/1SCn1R0X-gUZdfLRm4BvoueW8Fl7PXDsi#scrollTo=078a1feb
