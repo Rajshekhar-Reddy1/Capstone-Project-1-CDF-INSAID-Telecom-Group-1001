@@ -25,7 +25,10 @@ Table of Contents
 
 10.Thanks
 
-Loading...
+
+
+https://raw.githubusercontent.com/pratikbarjatya/Telecom-Capstone-Project/master/images/capstone_analysis.png
+
 Capstone Project 1 (CDF) INSAID Telecom Group 1001.ipynb
 Capstone Project 1 (CDF) INSAID Telecom Group 1001.ipynbC_
 Capstone Project 1 (CDF) Insaid Telecom Team 1001
@@ -1646,3 +1649,4 @@ THANK YOU
 error
 0s
 completed at 10:16 PM
+
